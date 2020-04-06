@@ -10,7 +10,7 @@ const userSchema = new mongoose.Schema({
 
   avatar: {
     type: String,
-    default: "http://localhost:3000/assets/img/avatar.png"
+    default: "http://129.204.237.233:3000/assets/img/avatar.png"
   }
 });
 
